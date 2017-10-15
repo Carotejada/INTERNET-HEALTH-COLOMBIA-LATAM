@@ -6,7 +6,7 @@ This information will be shared in the Clubs' Showcase at Mozfest 2017.
 
 # CONTRIBUTING
 
-- Every country will have an issue listed on this Repo.
+- He expect to create an issue for every country in LATAM. Their is going to be an issue for the Region itself. 
 - Anyone can comment, discuss, share and contribute on any issue.
 - We are seeking for information regarding policies, projects, research, around Internet Health in Latin America.
 
