@@ -1,6 +1,6 @@
 # INTERNET HEALTH COLOMBIA & LATAM
 
-This is an archive that collects information about projects that aim to overcome the digital divide in Latin America. 
+This is an archive that collects information about the stae of the Interrent in Colombia and Latina America, and features projects that aim to overcome the digital divide in Latin America. 
 
 This information will be shared in the Clubs' Showcase at Mozfest 2017.
 
